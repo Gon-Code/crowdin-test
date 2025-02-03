@@ -1,0 +1,52 @@
+---
+es-CO:
+  upselling_banners:
+    index:
+      banner_test_1:
+        content: Solucion disponible para contratar
+        title: Primer Banner Test
+        primary_btn_text: Cotizar
+        secondary_btn_text: Ver más detalles
+        offered_solution_id: onboarding
+      banner_test_2:
+        content: Solución ya contratada
+        title: Segundo Banner Test
+        primary_btn_text: Cotizar
+        secondary_btn_text: Ver más detalles
+        offered_solution_id: platforma_esencial
+      banner_test_content_length_1:
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet,\ \ adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.
+        title: Banner test con contenido muy largo
+        primary_btn_text: Cotizar
+        secondary_btn_text: Ver más detalles
+        offered_solution_id: onboarding
+      banner_beneficios_1:
+        content: Deja atrás la burocracia con terceros. En Buk, todo está integrado para activar importantes <span class='text-primary-900 font-weight-bold'>beneficios</span> a tus ${custom_translations.models.employee.other} en pocas horas.
+        title: Buk Recomienda
+        primary_btn_text: Cotizar
+        secondary_btn_text: Más información
+        offered_solution_id: planes_beneficios
+      banner_documentos_1:
+        content: '¿Has considerado <span class=''text-primary-900 font-weight-bold''>Firma Digital</span> de Buk? Te permitirá ahorrar tiempo y costos, mientras tus ${custom_translations.models.employee.other} pueden firmar desde cualquier lugar, incluso desde su celular.'
+        title: Buk Recomienda
+        primary_btn_text: Cotizar
+        secondary_btn_text: Más información
+        offered_solution_id: firma_digital_y_gestion_documental
+      banner_procesos_seleccion_1:
+        content: Optimiza la integración de nuevos colaboradores con un proceso de <span class='text-primary-900 font-weight-bold'>Onboarding</span> estandarizado. Asegura una rápida adaptación a su equipo, rol y cultura de la ${custom_translations.models.empresa.one}, impulsando su productividad desde el primer día.
+        title: Buk Recomienda
+        primary_btn_text: Cotizar
+        secondary_btn_text: Más información
+        offered_solution_id: onboarding
+      banner_gestion_ausencias_1:
+        content: Automatiza y optimiza tus procesos con <span class='text-primary-900 font-weight-bold'>Control de Asistencia</span>. Podrás administrar en tiempo real los turnos, atrasos, ausencias y horas extras de tus ${custom_translations.models.employee.other} directamente desde Buk
+        title: Buk Recomienda
+        primary_btn_text: Cotizar
+        secondary_btn_text: Más información
+        offered_solution_id: control_de_asistencia
+      banner_lme_1:
+        content: '¿Tienes <span class=''text-primary-900 font-weight-bold''>Licencias Médicas Electrónicas</span> que te gustaría administrar? Tramita las licencias provenientes desde Imed y Medipass directamente desde Buk.'
+        title: Buk Recomienda
+        primary_btn_text: Cotizar
+        secondary_btn_text: Más información
+        offered_solution_id: licencias_medicas_electronicas
