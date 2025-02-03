@@ -21,13 +21,13 @@ es-CL:
         secondary_btn_text: Ver más detalles
         offered_solution_id: onboarding
       banner_beneficios_1:
-        content: Deja atrás la burocracia con terceros. En Buk, todo está integrado para activar importantes <span class='text-primary-900 font-weight-bold'>beneficios</span> a tus ${custom_translations.models.employee.other} en pocas horas.
+        content: Deja atrás la burocracia con terceros. En Buk, todo está integrado para activar importantes <span class='text-primary-900 font-weight-bold'>beneficios</span> a tus ${custom_translations.models.employee.other} en pocas horas. Cambiado desde Crowdin.
         title: Buk Recomienda
         primary_btn_text: Cotizar
         secondary_btn_text: Más información
         offered_solution_id: planes_beneficios
       banner_documentos_1:
-        content: '¿Has considerado <span class=''text-primary-900 font-weight-bold''>Firma Digital</span> de Buk? Te permitirá ahorrar tiempo y costos, mientras tus ${custom_translations.models.employee.other} pueden firmar desde cualquier lugar, incluso desde su celular.'
+        content: "¿Has considerado <span class='text-primary-900 font-weight-bold'>Firma Digital y Gestión de Documentos</span> de Buk? Te permitirá ahorrar tiempo y costos, mientras tus ${custom_translations.models.employee.other} pueden firmar desde cualquier lugar, incluso desde su celular.\nTraduccion añadida desde el equipo de marketing."
         title: Buk Recomienda
         primary_btn_text: Cotizar
         secondary_btn_text: Más información
