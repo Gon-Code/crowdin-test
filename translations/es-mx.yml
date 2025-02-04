@@ -33,11 +33,11 @@ es-MX:
         secondary_btn_text: Más información
         offered_solution_id: firma_digital_y_gestion_documental
       banner_procesos_seleccion_1:
-        content: Optimiza la integración de nuevos colaboradores con un proceso de <span class='text-primary-900 font-weight-bold'>Onboarding</span> estandarizado. Asegura una rápida adaptación a su equipo, rol y cultura de la ${custom_translations.models.empresa.one}, impulsando su productividad desde el primer día.
+        content: El contenido de este banner fue modificado desde Crowdin!.
         title: Buk Recomienda
         primary_btn_text: Cotizar
         secondary_btn_text: Más información
-        offered_solution_id: onboarding
+        offered_solution_id:
       banner_gestion_ausencias_1:
         content: Automatiza y optimiza tus procesos con <span class='text-primary-900 font-weight-bold'>Control de Asistencia</span>. Podrás administrar en tiempo real los turnos, atrasos, ausencias y horas extras de tus ${custom_translations.models.employee.other} directamente desde Buk
         title: Buk Recomienda
